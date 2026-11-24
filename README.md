@@ -1,17 +1,21 @@
 # projeto-hemodepressao
 Projeto HemoDepressão — Protótipo de Software
 Software desenvolvido para fins acadêmicos e institucionais, sem registro formal de patente ou licença comercial vinculada.
+Objetivo: Digitalizar e automatizar a aplicação do Inventário de Autoavaliação de Ansiedade em pacientes submetidos a tratamento de hemodiálise.
 Idealização / Concepção: Profa. Dra. Fabiana de Souza Orlandi
 Desenvolvimento Low-Code (End-to-End) e UI/UX Design: Rita de Cassia Zanetti Marchi 
 Instituição: Universidade Federal de São Carlos (UFSCar)
 Front-end / Interface: Microsoft Power Apps
 Linguagem de Fórmulas: Power Fx
+Microsoft Power Platform (Web, Android e iOS via Power Apps Mobile)
 Banco de Dados: Microsoft SharePoint (Listas Relacionais)
+Status atual: Pausado / Em aguardo de etapas futuras (MVP funcional concluído)
+Nível de validação: 0 - O protótiipo encontra-se totalmente funcional, realizando o fluxo completo de preenchimento, cálculo/processamento e gravação estruturada dos dados no banco de dados.
+
 
 Ano de desenvolvimento: 2026
 
-Aplicativo desenvolvido em Microsoft Power App, integrado ao SharePoint Lists para analisar uma versão com uso da tecnologia
-para Instrumento de Inventário Autoavaliação da Depressão para Pacientes em Tratamento de Hemodiálise. Quando clica no botão gravar vai uma cópia para o profissional de saúde responsável na avaliação psicológica do usuário que respondeu o questionário pelo app. 
+Quando clica no botão gravar vai uma cópia para o profissional de saúde responsável na avaliação psicológica do usuário que respondeu o questionário pelo app. 
 A ideia é o profissional receber as perguntas com a pontuação de cada resposta e no final o valor total da pontuação, para assim poder analisar
 e focar quais as perguntas foram mais pontuadas e com isso analisar a melhor estratégia de tratamento.
 segue abaixo: exemplo do e-mail:
