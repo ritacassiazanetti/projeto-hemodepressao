@@ -1,7 +1,7 @@
 # projeto-hemodepressao\
 **Projeto HemoDepressão — Protótipo de Software**\
 **Software desenvolvido para fins acadêmicos e institucionais, sem registro formal de patente ou licença comercial vinculada.**\
-**Objetivo:** Digitalizar e automatizar a aplicação do Inventário de Autoavaliação de Ansiedade em pacientes submetidos a tratamento de hemodiálise.
+**Objetivo:** Digitalizar e automatizar a aplicação do Inventário de Autoavaliação de Depressão para pacientes em tratamento de hemodiálise. A solução busca promover a inclusão digital de forma acessível e clinicamente relevante, com arquitetura preparada para futura integração aos sistemas institucionais do Ministério da Saúde.
 
 **Idealização / Concepção:** Profa. Dra. Fabiana de Souza Orlandi\
 **Desenvolvimento Low-Code (End-to-End) e UI/UX Design:** Rita de Cassia Zanetti Marchi\
