@@ -51,7 +51,7 @@ Olá, segue Avaliação Final do Paciente: Nome do Paciente
    
 Pontuação Total: 37
 
-(Fim do e-mail)
+</details>
 
 **Abaixo, estrutura do banco de dados sharepoints denominado: HemoAvaliacaoAnsiedade**
 <details>
