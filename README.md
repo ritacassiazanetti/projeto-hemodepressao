@@ -25,7 +25,7 @@
 (Abaixo corpo do e-mail)\
 Olá, segue Avaliação Final do Paciente: Nome do Paciente
 
-1. Sente-se angustiado(a) ou mal-humorado(a)? = 2\
+1. Sente-se angustiado(a) ou mal-humorado(a)? = 2
 2. Redução da interação social (falta de vontade de se comunicar com outras pessoas? = 1\
 3. Perda de interesse do autocuidado (perda de interesse em se vestir, em se arrumar)? = 1\
 4. Falta de motivação para fazer as coisas no dia a dia? = 2\
