@@ -28,9 +28,9 @@ Olá, segue Avaliação Final do Paciente: Nome do Paciente
 3.Perda de interesse do autocuidado (perda de interesse em se vestir, em se arrumar)? = 1\
 4.Falta de motivação para fazer as coisas no dia a dia? = 2\
 5.Sente-se culpado(a) ou com sentimento de culpa? = 3\
-6.Sente-se um peso na situação econômica (financeira) da família? = 1\
-7.Sente-se um peso na situação psicológica (emocional) da família? = 2\
-8.Sente-se desvalorizado(a) ou fracassado(a)? = 3\
+6. Sente-se um peso na situação econômica (financeira) da família? = 1\
+7. Sente-se um peso na situação psicológica (emocional) da família? = 2\
+8. Sente-se desvalorizado(a) ou fracassado(a)? = 3\
 9.Tem pensamentos constantes de morte, incluindo ideias de suicídio? = 1\
 10.Sente-se incapaz de realizar qualquer coisa? = 0\
 11.Sente-se pessimista ou decepcionado(a)? = 3\
