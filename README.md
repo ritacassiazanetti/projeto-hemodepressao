@@ -107,6 +107,7 @@ Pontuação Total: 37
 
 
 **Nota**: As colunas Modificado, Criado, Criado por e Modificado por são campos padrão gerados automaticamente pelo sistema do SharePoint.
+</details>
 
 
 
