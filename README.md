@@ -21,6 +21,8 @@
 **Notificação e Relatório Automatizado:** Ao acionar o comando de gravação, o sistema envia automaticamente uma cópia estruturada das respostas ao profissional de saúde responsável pela avaliação psicológica do paciente. O relatório discrimina cada questão, sua respectiva pontuação individual e o escore total obtido, permitindo identificar rapidamente os itens de maior impacto e subsidiar a definição de estratégias terapêuticas personalizadas.
 **Exemplo** e-mail gerado:
 
+**Título do e-mail:**  Autoavaliação de Ansiedade em Hemodiálise/
+(Abaixo corpo do e-mail)/
 Olá, segue Avaliação Final do Paciente: Nome do Paciente
 
 1. Sente-se angustiado(a) ou mal-humorado(a)? = 2\
