@@ -42,11 +42,9 @@ Olá, segue Avaliação Final do Paciente: Nome do Paciente
 17.Tem perda de memória (dificuldade em se lembrar de algo)? = 3\
 18.Sente-se indigno (merecedor) para receber cuidados dos outros? = 3
    
-
 Pontuação Total: 37
 
-
-abaixo, nome e tipo de cada campo no sharepoints denominado: HemoAvaliacaoAnsiedade
+Abaixo, nome e tipo de cada campo no sharepoints denominado: HemoAvaliacaoAnsiedade
  
 | Nome do Campo | Tipo do Campo |
 | :--- | :--- |
@@ -98,6 +96,9 @@ abaixo, nome e tipo de cada campo no sharepoints denominado: HemoAvaliacaoAnsied
 | `Criado` | Data e Hora |
 | `Criado por` | Pessoa ou Grupo |
 | `Modificado por` | Pessoa ou Grupo |
+
+
+**Nota**: As colunas Modificado, Criado, Criado por e Modificado por são campos padrão gerados automaticamente pelo sistema do SharePoint.
 
 
 
