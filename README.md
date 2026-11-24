@@ -17,7 +17,7 @@
 **Aviso de Uso Clínico:** Esta versão destina-se apenas à demonstração técnica e simulação de ambiente. O protótipo ainda não está liberado para aplicação direta com pacientes/usuários finais.\
 **O código-fonte e os arquivos da aplicação encontram-se disponibilizados neste repositório no estágio atual de desenvolvimento para fins de registro, transparência e continuidade futura.**\
 
-**Mês/Ano de desenvolvimento:** 05/2026 à 09/2026
+**Mês / Ano de desenvolvimento:** 05/2026 à 09/2026
 
 Quando clica no botão gravar vai uma cópia para o profissional de saúde responsável na avaliação psicológica do usuário que respondeu o questionário pelo app. 
 A ideia é o profissional receber as perguntas com a pontuação de cada resposta e no final o valor total da pontuação, para assim poder analisar
