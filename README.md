@@ -46,7 +46,9 @@ Olá, segue Avaliação Final do Paciente: Nome do Paciente
    
 Pontuação Total: 37
 
-Abaixo, nome e tipo de cada campo no sharepoints denominado: HemoAvaliacaoAnsiedade
+(Fim do e-mail)
+
+**Abaixo, estrutura do banco de dados sharepoints denominado: HemoAvaliacaoAnsiedade**
  
 | Nome do Campo | Tipo do Campo |
 | :--- | :--- |
