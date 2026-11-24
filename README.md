@@ -1,8 +1,13 @@
 # projeto-hemodepressao
 Projeto HemoDepressão — Protótipo de Software
-Idealização: Profa. Dra. Fabiana de Souza Orlandi
-Desenvolvimento e UI/UX Design: Rita de Cassia Zanetti Marchi 
+Software desenvolvido para fins acadêmicos e institucionais, sem registro formal de patente ou licença comercial vinculada.
+Idealização / Concepção: Profa. Dra. Fabiana de Souza Orlandi
+Desenvolvimento Low-Code (End-to-End) e UI/UX Design: Rita de Cassia Zanetti Marchi 
 Instituição: Universidade Federal de São Carlos (UFSCar)
+Front-end / Interface: Microsoft Power Apps
+Linguagem de Fórmulas: Power Fx
+Banco de Dados: Microsoft SharePoint (Listas Relacionais)
+
 Ano de desenvolvimento: 2026
 
 Aplicativo desenvolvido em Microsoft Power App, integrado ao SharePoint Lists para analisar uma versão com uso da tecnologia
