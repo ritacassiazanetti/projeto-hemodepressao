@@ -26,22 +26,22 @@
 Olá, segue Avaliação Final do Paciente: Nome do Paciente
 
 1. Sente-se angustiado(a) ou mal-humorado(a)? = 2
-2. Redução da interação social (falta de vontade de se comunicar com outras pessoas? = 1\
-3. Perda de interesse do autocuidado (perda de interesse em se vestir, em se arrumar)? = 1\
-4. Falta de motivação para fazer as coisas no dia a dia? = 2\
-5. Sente-se culpado(a) ou com sentimento de culpa? = 3\
-6. Sente-se um peso na situação econômica (financeira) da família? = 1\
-7. Sente-se um peso na situação psicológica (emocional) da família? = 2\
-8. Sente-se desvalorizado(a) ou fracassado(a)? = 3\
-9. Tem pensamentos constantes de morte, incluindo ideias de suicídio? = 1\
-10. Sente-se incapaz de realizar qualquer coisa? = 0\
-11. Sente-se pessimista ou decepcionado(a)? = 3\
-12. Sente que precisa se esforçar muito para se concentrar em algo? = 2\
-13. Sente perda de interesse em atividades que antes gostava? = 3\
-14. Sente-se sozinho(a)? = 2\
-15. Chora facilmente? = 3\
-16. Tem se movimentado mais devagar e demorado a responder? = 2\
-17. Tem perda de memória (dificuldade em se lembrar de algo)? = 3\
+2. Redução da interação social (falta de vontade de se comunicar com outras pessoas? = 1
+3. Perda de interesse do autocuidado (perda de interesse em se vestir, em se arrumar)? = 1
+4. Falta de motivação para fazer as coisas no dia a dia? = 2
+5. Sente-se culpado(a) ou com sentimento de culpa? = 3
+6. Sente-se um peso na situação econômica (financeira) da família? = 1
+7. Sente-se um peso na situação psicológica (emocional) da família? = 2
+8. Sente-se desvalorizado(a) ou fracassado(a)? = 3
+9. Tem pensamentos constantes de morte, incluindo ideias de suicídio? = 1
+10. Sente-se incapaz de realizar qualquer coisa? = 0
+11. Sente-se pessimista ou decepcionado(a)? = 3
+12. Sente que precisa se esforçar muito para se concentrar em algo? = 2
+13. Sente perda de interesse em atividades que antes gostava? = 3
+14. Sente-se sozinho(a)? = 2
+15. Chora facilmente? = 3
+16. Tem se movimentado mais devagar e demorado a responder? = 2
+17. Tem perda de memória (dificuldade em se lembrar de algo)? = 3
 18. Sente-se indigno (merecedor) para receber cuidados dos outros? = 3
    
 Pontuação Total: 37
