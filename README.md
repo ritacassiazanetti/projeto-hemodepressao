@@ -25,7 +25,7 @@
 <summary><strong>📋 Clique aqui para visualizar a estrutura completa do e-mail </strong></summary>
 
 **Título do e-mail:**  Autoavaliação de Ansiedade em Hemodiálise\
-(Abaixo corpo do e-mail)\
+(Abaixo, corpo do e-mail)\
 Olá, segue Avaliação Final do Paciente: Nome do Paciente
 
 1. Sente-se angustiado(a) ou mal-humorado(a)? = 2
