@@ -49,6 +49,10 @@ Pontuação Total: 37
 (Fim do e-mail)
 
 **Abaixo, estrutura do banco de dados sharepoints denominado: HemoAvaliacaoAnsiedade**
+<details>
+<summary><strong>📋 Clique aqui para visualizar a estrutura completa de campos do SharePoint (47 colunas)</strong></summary>
+
+<br
  
 | Nome do Campo | Tipo do Campo |
 | :--- | :--- |
