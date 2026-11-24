@@ -11,7 +11,7 @@
 **Microsoft Power Platform (Web, Android e iOS via Power Apps Mobile)**\
 **Banco de Dados: Microsoft SharePoint (Listas Relacionais)**\
 
-**Status atual:** Pausado. Em aguardo de etapas futuras (MVP funcional concluído)\
+**Status atual:** Pausado. No aguardo de etapas futuras (MVP funcional concluído)\
 **Nível de validação:** 0 - O protótiipo encontra-se totalmente funcional, realizando o fluxo completo de preenchimento, cálculo/processamento e gravação estruturada dos dados no banco de dados.\
 **Testes realizados:** O protótipo funcional do aplicativo em andamento foi apresentado à idealizadora, obtendo avaliação positiva quanto à interface, usabilidade e aderência aos objetivos propostos.\
 **Aviso de Uso Clínico:** Esta versão destina-se apenas à demonstração técnica e simulação de ambiente. O aplicativo ainda não está liberado para aplicação direta com pacientes/usuários finais.\
