@@ -2,11 +2,11 @@
 Projeto HemoDepressão — Protótipo de Software\
 Software desenvolvido para fins acadêmicos e institucionais, sem registro formal de patente ou licença comercial vinculada.\
 Objetivo: Digitalizar e automatizar a aplicação do Inventário de Autoavaliação de Ansiedade em pacientes submetidos a tratamento de hemodiálise.\
-Idealização / Concepção: Profa. Dra. Fabiana de Souza Orlandi
-Desenvolvimento Low-Code (End-to-End) e UI/UX Design: Rita de Cassia Zanetti Marchi 
-Instituição: Universidade Federal de São Carlos (UFSCar)
-Front-end / Interface: Microsoft Power Apps
-Linguagem de Fórmulas: Power Fx
+Idealização / Concepção: Profa. Dra. Fabiana de Souza Orlandi\
+Desenvolvimento Low-Code (End-to-End) e UI/UX Design: Rita de Cassia Zanetti Marchi\
+Instituição: Universidade Federal de São Carlos (UFSCar)\
+Front-end / Interface: Microsoft Power Apps\
+Linguagem de Fórmulas: Power Fx\
 Microsoft Power Platform (Web, Android e iOS via Power Apps Mobile)
 Banco de Dados: Microsoft SharePoint (Listas Relacionais)
 Status atual: Pausado / Em aguardo de etapas futuras (MVP funcional concluído)
