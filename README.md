@@ -24,8 +24,6 @@
 <details>
 <summary><strong>📋 Clique aqui para visualizar a estrutura completa do e-mail </strong></summary>
 
-<br
-
 **Título do e-mail:**  Autoavaliação de Ansiedade em Hemodiálise\
 (Abaixo corpo do e-mail)\
 Olá, segue Avaliação Final do Paciente: Nome do Paciente
@@ -57,7 +55,7 @@ Pontuação Total: 37
 <details>
 <summary><strong>📋 Clique aqui para visualizar a estrutura completa de campos do SharePoint (47 colunas)</strong></summary>
 
-<br
+
  
 | Nome do Campo | Tipo do Campo |
 | :--- | :--- |
